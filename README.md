@@ -1,5 +1,5 @@
-# React Bootstrap with Material Design
-MDBootstrap for React
+# Ricardo Falcao Site
+Using MDBootstrap for React
 
 ## Getting Started
 To test, contribute or just see what we did follow few easy steps:
